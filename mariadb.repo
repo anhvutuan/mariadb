@@ -1,0 +1,7 @@
+# MariaDB 10.8 CentOS repository list - created 2022-10-25 06:30 UTC
+# https://mariadb.org/download/
+[mariadb]
+name = MariaDB
+baseurl = https://mirrors.bkns.vn/mariadb/yum/10.8/centos7-amd64
+gpgkey=https://mirrors.bkns.vn/mariadb/yum/RPM-GPG-KEY-MariaDB
+gpgcheck=1
